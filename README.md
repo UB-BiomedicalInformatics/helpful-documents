@@ -15,5 +15,13 @@ Please submit a [pull request](https://help.github.com/articles/about-pull-reque
 ### Statistics
 
 ### FHIR
+- [HAPI-FHIR](http://hapifhir.io/)
+- [Introduction to HAPI FHIR](http://hapifhir.io/doc_intro.html)
+- [HAPI-FHIR Test Server](http://fhirtest.uhn.ca/)
+- [Argonaut Project](http://argonautwiki.hl7.org/index.php?title=Main_Page)
+- [EHR FHIR Support](http://docs.smarthealthit.org/fhir-support/)
 
 ### SMART on FHIR
+- SMART on FHIR [Installer](https://github.com/smart-on-fhir/installer)
+- [Server Quick Start](http://docs.smarthealthit.org/tutorials/server-quick-start/)
+- [SMART App Launcher](https://launch.smarthealthit.org/index.html)
