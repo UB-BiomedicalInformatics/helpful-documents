@@ -7,10 +7,10 @@ Please submit a [pull request](https://help.github.com/articles/about-pull-reque
 
 ### R & RStudio
 - [R for Data Science](http://r4ds.had.co.nz/) by [Hadley Wickham](https://github.com/hadley)
-
 - [Data Science in the Tidyverse](https://github.com/cwickham/data-science-in-tidyverse) by [Charlotte Wickham](https://github.com/cwickham)
 
 ### Data Science, Generally
+- [Practical Deep Learning for Coders, Part 1](http://course.fast.ai/index.html) by [fast.ai](http://www.fast.ai/) & [The Data Institute at USF](https://www.usfca.edu/data-institute)
 
 ### Statistics
 
