@@ -6,6 +6,7 @@ Please submit a [pull request](https://help.github.com/articles/about-pull-reque
 - [Happy Git With R](http://happygitwithr.com/) by [Jenny Bryan](https://github.com/jennybc)
 
 ### R & RStudio
+- [Tidyverse Style Guide for R](http://style.tidyverse.org/) by [Hadley Wickham](https://github.com/hadley)
 - [R for Data Science](http://r4ds.had.co.nz/) by [Hadley Wickham](https://github.com/hadley)
 - [Data Science in the Tidyverse](https://github.com/cwickham/data-science-in-tidyverse) by [Charlotte Wickham](https://github.com/cwickham)
 
